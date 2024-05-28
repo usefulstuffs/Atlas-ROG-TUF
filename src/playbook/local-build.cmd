@@ -5,7 +5,7 @@
 # Do not change anything here, this is simply for reference
 $defaultConfig = @{
 	# Name of resulting APBX
-	fileName = "Atlas Test"
+	fileName = "AtlasOS ASUS Edition"
 
 	# Should the script delete any playbook that already exists with the same name or not
 	# If not, it will make something like "Atlas Test (1).apbx"
