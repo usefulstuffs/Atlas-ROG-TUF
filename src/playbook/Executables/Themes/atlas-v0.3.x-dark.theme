@@ -1,5 +1,5 @@
 [Theme]
-DisplayName=Atlas v0.3.x Dark
+DisplayName=ASUS ROG Dark
 ThemeId={FB5C68CD-E525-4324-9830-18BFE1746747}
 
 [Control Panel\Desktop]
@@ -32,8 +32,7 @@ SchemeName=No Sounds
 Path=%windir%\resources\themes\Aero\Aero.msstyles
 ColorStyle=NormalColor
 Size=NormalSize
-AutoColorization=0
-ColorizationColor=0XC44151BF
+AutoColorization=1
 SystemMode=Dark
 AppMode=Dark
 VisualStyleVersion=10

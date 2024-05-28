@@ -1,5 +1,5 @@
 [Theme]
-DisplayName=Atlas v0.4.x Light
+DisplayName=ASUS TUF GAMING Light
 ThemeId={9F1AEB0B-4DD7-44EF-8734-D4F82A341818}
 
 [Control Panel\Desktop]
@@ -32,8 +32,7 @@ SchemeName=No Sounds
 Path=%windir%\resources\themes\Aero\Aero.msstyles
 ColorStyle=NormalColor
 Size=NormalSize
-AutoColorization=0
-ColorizationColor=0XC41B345A
+AutoColorization=1
 SystemMode=Dark
 AppMode=Light
 VisualStyleVersion=10
